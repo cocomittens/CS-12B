@@ -1,0 +1,10 @@
+Name: Corrie Gripenstraw
+ID: cgripens
+Class: CMPS 12B
+Date: Nov 17, 2014
+Filename: BUGS
+Description: Lists bugs encountered and their solutions
+
+Line 53:
+  Does not free the whole linked list, only the head
+  Changed code to free whole linked list

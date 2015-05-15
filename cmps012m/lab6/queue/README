@@ -1,0 +1,12 @@
+Name: Corrie Gripenstraw
+ID: cgripens
+Class: CMPS12B
+Date: 11/24/2014
+Filename: README
+Description: Lists all files being submitted
+
+README
+Makefile
+queue.c
+queue.h
+main.c
